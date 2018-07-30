@@ -1,0 +1,40 @@
+Name: Prakhar Sethi
+USC ID: 6386461387
+News Site to Crawl: https://www.c-span.org/
+
+Fetch Statistics
+=================
+# fetches attempted: 20000
+# fetches succeeded: 9115
+# fetches failed or aborted: 10879(failed)+6(aborted)=10885
+
+Outgoing URLs:
+=====================
+Total URLs extracted: 346489
+# unique URLs extracted: 177319
+# unique URLs within News Site: 48249
+# unique URLs outside News Site: 129070
+
+Status Codes:
+=====================
+200 OK: 9121
+301 Moved Permanently: 9150
+302 Found: 1009
+307 null: 688
+404 Not Found:: 22
+410 null: 1
+504 null: 9
+
+File Sizes:
+=====================
+< 1KB: 301
+1KB ~ <10KB: 533
+10KB ~ <100KB: 7845
+100KB ~ <1MB: 383
+>= 1MB: 53
+
+Content Types:
+=====================
+text/html: 8823
+image/gif: 1
+
